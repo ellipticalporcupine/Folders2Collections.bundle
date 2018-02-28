@@ -1,0 +1,6 @@
+[{
+	"id": "folder",
+	"label": "Directory which will be used to name collections",
+	"type": "text",
+	"default": ""
+}]
